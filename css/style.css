@@ -1,0 +1,173 @@
+body {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+header {
+  padding: 20px 0 20px 0px;
+  background-color: black;
+}
+header img {
+  width: 150px;
+}
+.start {
+  height: 470px;
+  background-image: url(../images/banner.jpg);
+  background-size: cover;
+  background-position: top;
+  padding-bottom: 20px;
+}
+main div h1 {
+  font-size: 3em;
+  padding-top: 65px;
+  padding-bottom: 30px;
+  color: #25a2c3;
+  font-weight: 600;
+}
+main div p {
+  font-size: 1.6em;
+  font-weight: 400;
+  line-height: 1.5;
+  padding-bottom: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+main div input {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  height: 60px;
+  width: 220px;
+  border-radius: 10px;
+  border-color: unset;
+  font-size: 20px;
+}
+
+.half {
+  padding-top: 40px;
+}
+main div p span {
+  color: #25a2c3;
+
+  line-height: 60px;
+  font-weight: bold;
+}
+main div.half img {
+  width: 70vw;
+  border-radius: 50%;
+  padding-bottom: 20px;
+}
+
+.s-half {
+  color: white;
+  background-color: red;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+main div h2 {
+  padding-top: 1em;
+  font-size: 2.3em;
+  font-weight: bold;
+  padding-bottom: 1em;
+}
+main div.s-half p:first-of-type {
+  font-style: italic;
+  font-size: large;
+}
+.ceo {
+  font-size: 0.8em;
+}
+main div h5 {
+  font-size: 1.5em;
+  padding-bottom: 0.3em;
+}
+
+.img {
+  width: 100%;
+  padding-top: 50px;
+  border: 0;
+  padding: 0;
+}
+.box1 {
+  border: solid rgb(194, 193, 193) 1px;
+  margin-right: 0px;
+  padding-left: 0px;
+  width: 400px;
+  margin-top: 50px;
+  border-right-width: 2px;
+  height: 450px;
+  margin-left: 50px;
+}
+.box2 {
+  border: solid rgb(194, 193, 193) 1px;
+  margin-right: 0px;
+  padding-left: 0px;
+  width: 400px;
+  margin-top: 50px;
+  border-right-width: 2px;
+  height: 450px;
+  margin-left: 50px;
+}
+.box3 {
+  border: solid rgb(194, 193, 193) 1px;
+  margin-right: 0px;
+  padding-left: 0px;
+  width: 400px;
+  margin-top: 50px;
+  border-right-width: 2px;
+  height: 400px;
+  margin-left: 50px;
+  margin-bottom: 100px;
+}
+main div.box1 p {
+  font-size: 1em;
+}
+main div.box2 p {
+  font-size: 1em;
+}
+main div.box3 p {
+  font-size: 1em;
+}
+main div.box1 p span {
+  font-size: 1.5em;
+}
+main div.box2 p span {
+  font-size: 1.5em;
+}
+main div.box3 p span {
+  font-size: 1.5em;
+}
+
+footer div {
+  background-color: #25a2c3;
+  color: white;
+}
+footer a {
+  color: white;
+  line-height: 1.5em;
+  font-size: 1.2em;
+  font-weight: 200;
+}
+footer h6 {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+footer div p.via {
+  font-size: 1.2em;
+  padding-top: 0.8em;
+  font-weight: 200;
+}
+footer hr {
+  width: 250px;
+  margin-top: 30px;
+}
+footer div p.final {
+  font-size: 1em;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  font-weight: 200;
+}
